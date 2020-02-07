@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Akash-MyPortfolio/static/css/main.5303d68a.chunk.css",
-    "main.js": "/Akash-MyPortfolio/static/js/main.47173455.chunk.js",
-    "main.js.map": "/Akash-MyPortfolio/static/js/main.47173455.chunk.js.map",
+    "main.js": "/Akash-MyPortfolio/static/js/main.6850b70c.chunk.js",
+    "main.js.map": "/Akash-MyPortfolio/static/js/main.6850b70c.chunk.js.map",
     "runtime-main.js": "/Akash-MyPortfolio/static/js/runtime-main.1ec1321a.js",
     "runtime-main.js.map": "/Akash-MyPortfolio/static/js/runtime-main.1ec1321a.js.map",
     "static/js/2.859e7020.chunk.js": "/Akash-MyPortfolio/static/js/2.859e7020.chunk.js",
     "static/js/2.859e7020.chunk.js.map": "/Akash-MyPortfolio/static/js/2.859e7020.chunk.js.map",
     "index.html": "/Akash-MyPortfolio/index.html",
-    "precache-manifest.d224acd8df53fe88a83ac97e9ef2580a.js": "/Akash-MyPortfolio/precache-manifest.d224acd8df53fe88a83ac97e9ef2580a.js",
+    "precache-manifest.df6517afad1f6f8735e1cb27f3c6f50d.js": "/Akash-MyPortfolio/precache-manifest.df6517afad1f6f8735e1cb27f3c6f50d.js",
     "service-worker.js": "/Akash-MyPortfolio/service-worker.js",
     "static/css/main.5303d68a.chunk.css.map": "/Akash-MyPortfolio/static/css/main.5303d68a.chunk.css.map",
     "static/js/2.859e7020.chunk.js.LICENSE": "/Akash-MyPortfolio/static/js/2.859e7020.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.1ec1321a.js",
     "static/js/2.859e7020.chunk.js",
     "static/css/main.5303d68a.chunk.css",
-    "static/js/main.47173455.chunk.js"
+    "static/js/main.6850b70c.chunk.js"
   ]
 }
