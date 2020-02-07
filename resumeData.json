@@ -1,0 +1,117 @@
+{
+  "main": {
+    "name":"AKASH",
+    "occupation":"Software Engineer",
+    "jobDescription":"Full Stack Developer",
+    "image":"profile_pic.jpg",
+    "bio":"I'm highly skilled Information technology professional with strong experience and knowledge in creating high-quality, scalable, and high-performance web applications. Self-starter on a vigorous path of constant-growth, while consistently working with my fellow peers. I aspire to contribute to the world to the best of my ability with solutions for real-time problems using software technology.",
+    "email": "akashappa.te@gmail.com",
+    "phone": "(513)-208-7747",
+    "address":{
+      "street":"315 Terrace Avenue",
+      "city":"Cincinnati",
+      "state":"Ohio",
+      "zip": "45220"
+    },
+    "resumedownload":"./Resume-Akash.pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/Akashappa1110",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/akash-temburnikar/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/AkashTemburnikar",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"University of Cincinnati, Cincinnati, Ohio, United States.",
+        "degree":"Master of Engineering in Computer Science",
+        "graduated":"Expected 2020",
+        "description":"Courses: Advance Algorithms, Cloud Computing, Database Theory, Data Encoding."
+      },
+      {
+        "school":"Jawaharlal Nehru Technological University, Hyderabad, India.",
+        "degree":"Bachelor of Technology in Computer Science and Engineering.",
+        "graduated":"Aug 2012 - April 2016",
+        "description":"Courses: Data Structures, Design and Analysis of Algorithms, Object-Oriented Programming through C#."
+      }
+    ],
+    "work":[
+      {
+        "company":"ProcessMap India Pvt. Ltd.",
+        "title": "Software developer",
+        "years": "August 2016 - July 2019",
+        "description":  "Developed new features in web application using ASP.NET Web Forms/ASP.NET MVC with C#, JavaScript, jQuery and designed using HTML, CSS, Bootstrap 3.0 and worked on constant improvements of existing functionalities.",
+        "description1": "Improved the response time of a .Net Screen (10s to 3s) with an Asynchronous call to Web API by reducing Client-Server round trip.",
+        "description2": "Played a key role in the performance tuning and optimization of stored procedures.",
+        "description3": "Created complex and dynamic stored Procedures, triggers, tables, and views using T-SQL.",
+        "description4": "Developed Single page applications and new user-facing features using ReactJS workflow Redux and built most reusable common components library like drag and drop functionality using react-drop zone, list page.",
+        "description5": "Developed RESTful Web Services using Microsoft WEB API and used Postman for rest service testing."
+      }
+    ],
+    "skillmessage":"Tech Stack I love!",
+    "skills":[
+      {
+        "name":"ASP.NET 4.5",
+        "image":"DotNet.jpg"
+      },
+      {
+        "name":"Javascript",
+        "image":"javascript_logo.jpg"
+      },
+      {
+        "name":"SQL",
+        "image":"Sql.jpg"
+      },
+      {
+        "name":"ReactJS",
+        "image":"react_redux.jpg"
+      },
+      {
+        "name":"Node & Express.JS",
+        "image":"node.jpg"
+      },
+      {
+        "name":"MongoDB",
+        "image":"mongo.jpg"
+      },
+      {
+        "name":"Bootstrap 4",
+        "image":"bootstrap.jpg"
+      },
+      {
+        "name":"Git",
+        "image":"git.jpg"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Todos List",
+        "category":"ToDo App helps you manage, prioritize the most important things you need to achieve every day",
+        "technology":"Developed using MERN Stack",
+        "image":"todos-list-app.png",
+        "url":"https://todos-list-akash.herokuapp.com/"
+      },
+      {
+        "title":"Portfolio",
+        "category":"Education, Work History, Skills, Projects.",
+        "technology":"Developed using ReactJS",
+        "image":"portfolio.png",
+        "url":"https://todos-list-akash.herokuapp.com/"
+      }
+    ]
+  }
+}
